@@ -1,0 +1,8 @@
+﻿{
+	"Env": "live",
+	"AppKey": "d1ab0f1fe466fc6081c9c0e1d28ae8ce776ead2c6df689e48bcf43f3e19e2a63",
+	"AppSecret": "86eb6986b438cca7907f4441655f24f305e17e68f82c70d5db6957b8eb120ee9d8122259e0a1c1b75b43837a71ac28a8",
+	"GameId": "LastHealing",
+	"LogLevel": 3,
+	"LogPath": ""
+}

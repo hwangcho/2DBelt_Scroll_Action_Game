@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-//플레이어 상태 스크립트
+//플레이어 상태 스크립트.
 public class PlayerState : MonoBehaviour {
 	//플레이어 현재상태 변수
 	public PLAYERSTATE currentState = PLAYERSTATE.IDLE;
